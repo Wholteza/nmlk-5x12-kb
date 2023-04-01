@@ -1,0 +1,1753 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>/home/wholteza/repos/wrist-pain-kb/kicad/keyboard.kicad_sch</source>
+    <date>lör  1 apr 2023 17:42:35</date>
+    <tool>Eeschema 6.0.7+dfsg-1build1</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>keyboard.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="A1">
+      <value>TINY2040-pimoroni-boards</value>
+      <footprint>footprints:pimoroni-boards-TINY2040</footprint>
+      <libsource lib="project_library" part="TINY2040-pimoroni-boards" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5a4042a5-1b74-45d3-85f5-a15283467fe9</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>19fe0444-725b-40b8-a88e-45729127f2f3</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>4.7k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fbb455ca-cfd0-454a-977d-650fa3ea42c2</tstamps>
+    </comp>
+    <comp ref="R3">
+      <value>4.7k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>172e44a1-9d90-4fd9-88e1-2bf9e4a73ff2</tstamps>
+    </comp>
+    <comp ref="R4">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fa088f4c-5b67-4687-830b-fb85f9c783b3</tstamps>
+    </comp>
+    <comp ref="R5">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b5eec600-0108-4f47-a1a6-77d4dc3ec135</tstamps>
+    </comp>
+    <comp ref="R6">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>143045ba-210c-4f2c-9ed4-d21d2ee53be4</tstamps>
+    </comp>
+    <comp ref="R7">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>18a76689-afbd-4c66-a7a5-0bc9edbcf134</tstamps>
+    </comp>
+    <comp ref="R8">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e1da9a88-a741-408a-871a-447e428aae85</tstamps>
+    </comp>
+    <comp ref="R9">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>108da437-eb04-47b0-9a5c-015828bb1599</tstamps>
+    </comp>
+    <comp ref="SW1">
+      <value>SW_MEC_5G</value>
+      <footprint>footprints:CherryMX_ChocV2_1u</footprint>
+      <datasheet>Custom switch</datasheet>
+      <libsource lib="project_library" part="SW_KAILH_CHOC_V2" description="MEC 5G single pole normally-open tactile switch"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9f9ba338-2303-45cd-98a1-67f7fa3bbc39</tstamps>
+    </comp>
+    <comp ref="SW2">
+      <value>SW_MEC_5G</value>
+      <footprint>footprints:CherryMX_ChocV2_1u</footprint>
+      <datasheet>Custom switch</datasheet>
+      <libsource lib="project_library" part="SW_KAILH_CHOC_V2" description="MEC 5G single pole normally-open tactile switch"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>43eef4d3-92db-446c-912d-16a43edfe807</tstamps>
+    </comp>
+    <comp ref="SW3">
+      <value>SW_MEC_5G</value>
+      <footprint>footprints:CherryMX_ChocV2_1u</footprint>
+      <datasheet>Custom switch</datasheet>
+      <libsource lib="project_library" part="SW_KAILH_CHOC_V2" description="MEC 5G single pole normally-open tactile switch"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9495d9d4-19ae-4f40-9bde-a258100435f0</tstamps>
+    </comp>
+    <comp ref="SW4">
+      <value>SW_MEC_5G</value>
+      <footprint>footprints:CherryMX_ChocV2_1u</footprint>
+      <datasheet>Custom switch</datasheet>
+      <libsource lib="project_library" part="SW_KAILH_CHOC_V2" description="MEC 5G single pole normally-open tactile switch"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4d365288-3e8c-404f-9404-bd47d0908ee6</tstamps>
+    </comp>
+    <comp ref="SW5">
+      <value>SW_MEC_5G</value>
+      <footprint>footprints:CherryMX_ChocV2_1u</footprint>
+      <datasheet>Custom switch</datasheet>
+      <libsource lib="project_library" part="SW_KAILH_CHOC_V2" description="MEC 5G single pole normally-open tactile switch"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>92118010-37c2-4d85-8b5b-ca5f494d0117</tstamps>
+    </comp>
+    <comp ref="SW6">
+      <value>SW_MEC_5G</value>
+      <footprint>footprints:CherryMX_ChocV2_1u</footprint>
+      <datasheet>Custom switch</datasheet>
+      <libsource lib="project_library" part="SW_KAILH_CHOC_V2" description="MEC 5G single pole normally-open tactile switch"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7e0510f2-7cba-4857-a418-3033e992990e</tstamps>
+    </comp>
+    <comp ref="SW7">
+      <value>SW_MEC_5G</value>
+      <footprint>footprints:CherryMX_ChocV2_1u</footprint>
+      <datasheet>Custom switch</datasheet>
+      <libsource lib="project_library" part="SW_KAILH_CHOC_V2" description="MEC 5G single pole normally-open tactile switch"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>01d836d0-9dbf-4280-886d-867b0b046025</tstamps>
+    </comp>
+    <comp ref="SW8">
+      <value>SW_MEC_5G</value>
+      <footprint>footprints:CherryMX_ChocV2_1u</footprint>
+      <datasheet>Custom switch</datasheet>
+      <libsource lib="project_library" part="SW_KAILH_CHOC_V2" description="MEC 5G single pole normally-open tactile switch"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9bdb96cd-0116-458b-a68d-6fb6fdc6d195</tstamps>
+    </comp>
+    <comp ref="SW9">
+      <value>SW_MEC_5G</value>
+      <footprint>footprints:CherryMX_ChocV2_1u</footprint>
+      <datasheet>Custom switch</datasheet>
+      <libsource lib="project_library" part="SW_KAILH_CHOC_V2" description="MEC 5G single pole normally-open tactile switch"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>aa28faec-704d-4147-8a21-4a7a3b1e80fe</tstamps>
+    </comp>
+    <comp ref="SW10">
+      <value>SW_MEC_5G</value>
+      <footprint>footprints:CherryMX_ChocV2_1u</footprint>
+      <datasheet>Custom switch</datasheet>
+      <libsource lib="project_library" part="SW_KAILH_CHOC_V2" description="MEC 5G single pole normally-open tactile switch"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4dfb8752-17b7-4c9a-bf8e-86032737cedd</tstamps>
+    </comp>
+    <comp ref="SW11">
+      <value>SW_MEC_5G</value>
+      <footprint>footprints:CherryMX_ChocV2_1u</footprint>
+      <datasheet>Custom switch</datasheet>
+      <libsource lib="project_library" part="SW_KAILH_CHOC_V2" description="MEC 5G single pole normally-open tactile switch"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>986e6001-777a-420e-9c4b-4ae2492c67c0</tstamps>
+    </comp>
+    <comp ref="SW12">
+      <value>SW_MEC_5G</value>
+      <footprint>footprints:CherryMX_ChocV2_1u</footprint>
+      <datasheet>Custom switch</datasheet>
+      <libsource lib="project_library" part="SW_KAILH_CHOC_V2" description="MEC 5G single pole normally-open tactile switch"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>35af2606-f6b3-49c4-b564-3fb4aa3ca736</tstamps>
+    </comp>
+    <comp ref="SW13">
+      <value>SW_MEC_5G</value>
+      <footprint>footprints:CherryMX_ChocV2_1u</footprint>
+      <datasheet>Custom switch</datasheet>
+      <libsource lib="project_library" part="SW_KAILH_CHOC_V2" description="MEC 5G single pole normally-open tactile switch"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4ad42bff-da12-4c89-a50b-d074b6be0dc4</tstamps>
+    </comp>
+    <comp ref="SW14">
+      <value>SW_MEC_5G</value>
+      <footprint>footprints:CherryMX_ChocV2_1u</footprint>
+      <datasheet>Custom switch</datasheet>
+      <libsource lib="project_library" part="SW_KAILH_CHOC_V2" description="MEC 5G single pole normally-open tactile switch"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>623bfeeb-28e5-4d8b-910c-8d853cffd917</tstamps>
+    </comp>
+    <comp ref="SW15">
+      <value>SW_MEC_5G</value>
+      <footprint>footprints:CherryMX_ChocV2_1u</footprint>
+      <datasheet>Custom switch</datasheet>
+      <libsource lib="project_library" part="SW_KAILH_CHOC_V2" description="MEC 5G single pole normally-open tactile switch"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>10c10ef7-bef5-4f04-9e0c-a9a7d02138a7</tstamps>
+    </comp>
+    <comp ref="SW16">
+      <value>SW_MEC_5G</value>
+      <footprint>footprints:CherryMX_ChocV2_1u</footprint>
+      <datasheet>Custom switch</datasheet>
+      <libsource lib="project_library" part="SW_KAILH_CHOC_V2" description="MEC 5G single pole normally-open tactile switch"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4a80b7c1-45a5-4ed8-8728-dcf528fb6a8e</tstamps>
+    </comp>
+    <comp ref="SW17">
+      <value>SW_MEC_5G</value>
+      <footprint>footprints:CherryMX_ChocV2_1u</footprint>
+      <datasheet>Custom switch</datasheet>
+      <libsource lib="project_library" part="SW_KAILH_CHOC_V2" description="MEC 5G single pole normally-open tactile switch"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7f152624-7c03-4d45-a623-0533bb6ba2a7</tstamps>
+    </comp>
+    <comp ref="SW18">
+      <value>SW_MEC_5G</value>
+      <footprint>footprints:CherryMX_ChocV2_1u</footprint>
+      <datasheet>Custom switch</datasheet>
+      <libsource lib="project_library" part="SW_KAILH_CHOC_V2" description="MEC 5G single pole normally-open tactile switch"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b694ce9e-c483-4758-af1f-2b9407fe7abb</tstamps>
+    </comp>
+    <comp ref="SW19">
+      <value>SW_MEC_5G</value>
+      <footprint>footprints:CherryMX_ChocV2_1u</footprint>
+      <datasheet>Custom switch</datasheet>
+      <libsource lib="project_library" part="SW_KAILH_CHOC_V2" description="MEC 5G single pole normally-open tactile switch"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1c39b512-acee-4171-8545-3ccf7a0deb4e</tstamps>
+    </comp>
+    <comp ref="SW20">
+      <value>SW_MEC_5G</value>
+      <footprint>footprints:CherryMX_ChocV2_1u</footprint>
+      <datasheet>Custom switch</datasheet>
+      <libsource lib="project_library" part="SW_KAILH_CHOC_V2" description="MEC 5G single pole normally-open tactile switch"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9c60d768-3784-4377-93fd-864546f48496</tstamps>
+    </comp>
+    <comp ref="SW21">
+      <value>SW_MEC_5G</value>
+      <footprint>footprints:CherryMX_ChocV2_1u</footprint>
+      <datasheet>Custom switch</datasheet>
+      <libsource lib="project_library" part="SW_KAILH_CHOC_V2" description="MEC 5G single pole normally-open tactile switch"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>420aaf6f-d208-4c6b-9274-17e4bb993c6b</tstamps>
+    </comp>
+    <comp ref="SW22">
+      <value>SW_MEC_5G</value>
+      <footprint>footprints:CherryMX_ChocV2_1u</footprint>
+      <datasheet>Custom switch</datasheet>
+      <libsource lib="project_library" part="SW_KAILH_CHOC_V2" description="MEC 5G single pole normally-open tactile switch"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>dd6bd6ea-351c-4924-8f13-493abc1a6710</tstamps>
+    </comp>
+    <comp ref="SW23">
+      <value>SW_MEC_5G</value>
+      <footprint>footprints:CherryMX_ChocV2_1u</footprint>
+      <datasheet>Custom switch</datasheet>
+      <libsource lib="project_library" part="SW_KAILH_CHOC_V2" description="MEC 5G single pole normally-open tactile switch"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>74f06d9e-c24d-4e92-863c-f69e550fa7a3</tstamps>
+    </comp>
+    <comp ref="SW24">
+      <value>SW_MEC_5G</value>
+      <footprint>footprints:CherryMX_ChocV2_1u</footprint>
+      <datasheet>Custom switch</datasheet>
+      <libsource lib="project_library" part="SW_KAILH_CHOC_V2" description="MEC 5G single pole normally-open tactile switch"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>63133405-b799-4fd1-90d9-23f2371aca05</tstamps>
+    </comp>
+    <comp ref="SW25">
+      <value>SW_MEC_5G</value>
+      <footprint>footprints:CherryMX_ChocV2_1u</footprint>
+      <datasheet>Custom switch</datasheet>
+      <libsource lib="project_library" part="SW_KAILH_CHOC_V2" description="MEC 5G single pole normally-open tactile switch"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4f42fd13-c182-4808-9b74-09d06a9abaf4</tstamps>
+    </comp>
+    <comp ref="SW26">
+      <value>SW_MEC_5G</value>
+      <footprint>footprints:CherryMX_ChocV2_1u</footprint>
+      <datasheet>Custom switch</datasheet>
+      <libsource lib="project_library" part="SW_KAILH_CHOC_V2" description="MEC 5G single pole normally-open tactile switch"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b3790711-736c-4bc6-bf0c-0ec829e7ad85</tstamps>
+    </comp>
+    <comp ref="SW27">
+      <value>SW_MEC_5G</value>
+      <footprint>footprints:CherryMX_ChocV2_1u</footprint>
+      <datasheet>Custom switch</datasheet>
+      <libsource lib="project_library" part="SW_KAILH_CHOC_V2" description="MEC 5G single pole normally-open tactile switch"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a7fc515e-4b11-4525-90c2-7e0bba30ee3c</tstamps>
+    </comp>
+    <comp ref="SW28">
+      <value>SW_MEC_5G</value>
+      <footprint>footprints:CherryMX_ChocV2_1u</footprint>
+      <datasheet>Custom switch</datasheet>
+      <libsource lib="project_library" part="SW_KAILH_CHOC_V2" description="MEC 5G single pole normally-open tactile switch"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>112b9a43-6275-4f8c-80bc-fe11e5dcd3ae</tstamps>
+    </comp>
+    <comp ref="SW29">
+      <value>SW_MEC_5G</value>
+      <footprint>footprints:CherryMX_ChocV2_1u</footprint>
+      <datasheet>Custom switch</datasheet>
+      <libsource lib="project_library" part="SW_KAILH_CHOC_V2" description="MEC 5G single pole normally-open tactile switch"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2300508a-b4f3-49ce-8892-1f9e3bc4b793</tstamps>
+    </comp>
+    <comp ref="SW30">
+      <value>SW_MEC_5G</value>
+      <footprint>footprints:CherryMX_ChocV2_1u</footprint>
+      <datasheet>Custom switch</datasheet>
+      <libsource lib="project_library" part="SW_KAILH_CHOC_V2" description="MEC 5G single pole normally-open tactile switch"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>65b953df-d545-4941-a297-3a195e73d03e</tstamps>
+    </comp>
+    <comp ref="SW31">
+      <value>SW_MEC_5G</value>
+      <footprint>footprints:CherryMX_ChocV2_1u</footprint>
+      <datasheet>Custom switch</datasheet>
+      <libsource lib="project_library" part="SW_KAILH_CHOC_V2" description="MEC 5G single pole normally-open tactile switch"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f3dce829-7341-4032-9b2c-a732ec79904d</tstamps>
+    </comp>
+    <comp ref="SW32">
+      <value>SW_MEC_5G</value>
+      <footprint>footprints:CherryMX_ChocV2_1u</footprint>
+      <datasheet>Custom switch</datasheet>
+      <libsource lib="project_library" part="SW_KAILH_CHOC_V2" description="MEC 5G single pole normally-open tactile switch"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>db97480e-f83d-4137-b47e-74c41083d992</tstamps>
+    </comp>
+    <comp ref="SW33">
+      <value>SW_MEC_5G</value>
+      <footprint>footprints:CherryMX_ChocV2_1u</footprint>
+      <datasheet>Custom switch</datasheet>
+      <libsource lib="project_library" part="SW_KAILH_CHOC_V2" description="MEC 5G single pole normally-open tactile switch"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>131a2331-1ecb-418f-81e7-4ca5e7c78040</tstamps>
+    </comp>
+    <comp ref="SW34">
+      <value>SW_MEC_5G</value>
+      <footprint>footprints:CherryMX_ChocV2_1u</footprint>
+      <datasheet>Custom switch</datasheet>
+      <libsource lib="project_library" part="SW_KAILH_CHOC_V2" description="MEC 5G single pole normally-open tactile switch"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>626982c6-9d76-4cc0-b662-5340b6bd7788</tstamps>
+    </comp>
+    <comp ref="SW35">
+      <value>SW_MEC_5G</value>
+      <footprint>footprints:CherryMX_ChocV2_1u</footprint>
+      <datasheet>Custom switch</datasheet>
+      <libsource lib="project_library" part="SW_KAILH_CHOC_V2" description="MEC 5G single pole normally-open tactile switch"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>85d1b248-8317-4f87-be5f-c1dd312d4646</tstamps>
+    </comp>
+    <comp ref="SW36">
+      <value>SW_MEC_5G</value>
+      <footprint>footprints:CherryMX_ChocV2_1u</footprint>
+      <datasheet>Custom switch</datasheet>
+      <libsource lib="project_library" part="SW_KAILH_CHOC_V2" description="MEC 5G single pole normally-open tactile switch"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7a235eb7-0d17-4345-bae1-afb27a8f54a4</tstamps>
+    </comp>
+    <comp ref="SW37">
+      <value>SW_MEC_5G</value>
+      <footprint>footprints:CherryMX_ChocV2_1u</footprint>
+      <datasheet>Custom switch</datasheet>
+      <libsource lib="project_library" part="SW_KAILH_CHOC_V2" description="MEC 5G single pole normally-open tactile switch"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c988d2f1-ae53-4122-94ce-539c33f9b94b</tstamps>
+    </comp>
+    <comp ref="SW38">
+      <value>SW_MEC_5G</value>
+      <footprint>footprints:CherryMX_ChocV2_1u</footprint>
+      <datasheet>Custom switch</datasheet>
+      <libsource lib="project_library" part="SW_KAILH_CHOC_V2" description="MEC 5G single pole normally-open tactile switch"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ae15f07f-81fe-4351-9038-f55418018b90</tstamps>
+    </comp>
+    <comp ref="SW39">
+      <value>SW_MEC_5G</value>
+      <footprint>footprints:CherryMX_ChocV2_1u</footprint>
+      <datasheet>Custom switch</datasheet>
+      <libsource lib="project_library" part="SW_KAILH_CHOC_V2" description="MEC 5G single pole normally-open tactile switch"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f78ef202-3d6d-422d-9a82-8cd98db55435</tstamps>
+    </comp>
+    <comp ref="SW40">
+      <value>SW_MEC_5G</value>
+      <footprint>footprints:CherryMX_ChocV2_1u</footprint>
+      <datasheet>Custom switch</datasheet>
+      <libsource lib="project_library" part="SW_KAILH_CHOC_V2" description="MEC 5G single pole normally-open tactile switch"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b78f513a-205a-46dd-bfc3-4161ed6f5c75</tstamps>
+    </comp>
+    <comp ref="SW41">
+      <value>SW_MEC_5G</value>
+      <footprint>footprints:CherryMX_ChocV2_1u</footprint>
+      <datasheet>Custom switch</datasheet>
+      <libsource lib="project_library" part="SW_KAILH_CHOC_V2" description="MEC 5G single pole normally-open tactile switch"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5bc4fea8-15aa-44ee-933e-140ea915ffea</tstamps>
+    </comp>
+    <comp ref="SW42">
+      <value>SW_MEC_5G</value>
+      <footprint>footprints:CherryMX_ChocV2_1u</footprint>
+      <datasheet>Custom switch</datasheet>
+      <libsource lib="project_library" part="SW_KAILH_CHOC_V2" description="MEC 5G single pole normally-open tactile switch"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7722893f-656c-4b84-b6e8-21a36e7e6a4c</tstamps>
+    </comp>
+    <comp ref="SW43">
+      <value>SW_MEC_5G</value>
+      <footprint>footprints:CherryMX_ChocV2_1u</footprint>
+      <datasheet>Custom switch</datasheet>
+      <libsource lib="project_library" part="SW_KAILH_CHOC_V2" description="MEC 5G single pole normally-open tactile switch"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e6667080-c0b9-4a10-b18e-f6f4db71f4fe</tstamps>
+    </comp>
+    <comp ref="SW44">
+      <value>SW_MEC_5G</value>
+      <footprint>footprints:CherryMX_ChocV2_1u</footprint>
+      <datasheet>Custom switch</datasheet>
+      <libsource lib="project_library" part="SW_KAILH_CHOC_V2" description="MEC 5G single pole normally-open tactile switch"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>28d25c16-c4da-4da0-8735-347657e88aed</tstamps>
+    </comp>
+    <comp ref="SW45">
+      <value>SW_MEC_5G</value>
+      <footprint>footprints:CherryMX_ChocV2_1u</footprint>
+      <datasheet>Custom switch</datasheet>
+      <libsource lib="project_library" part="SW_KAILH_CHOC_V2" description="MEC 5G single pole normally-open tactile switch"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ec1580c3-889c-4c62-b21e-ace9082bf5b6</tstamps>
+    </comp>
+    <comp ref="SW46">
+      <value>SW_MEC_5G</value>
+      <footprint>footprints:CherryMX_ChocV2_1u</footprint>
+      <datasheet>Custom switch</datasheet>
+      <libsource lib="project_library" part="SW_KAILH_CHOC_V2" description="MEC 5G single pole normally-open tactile switch"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>75a82d37-d5ef-4371-a131-ba95dc84cd54</tstamps>
+    </comp>
+    <comp ref="SW47">
+      <value>SW_MEC_5G</value>
+      <footprint>footprints:CherryMX_ChocV2_1u</footprint>
+      <datasheet>Custom switch</datasheet>
+      <libsource lib="project_library" part="SW_KAILH_CHOC_V2" description="MEC 5G single pole normally-open tactile switch"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7f1593ad-b1c9-4a96-9342-e12ee6ab58b2</tstamps>
+    </comp>
+    <comp ref="SW48">
+      <value>SW_MEC_5G</value>
+      <footprint>footprints:CherryMX_ChocV2_1u</footprint>
+      <datasheet>Custom switch</datasheet>
+      <libsource lib="project_library" part="SW_KAILH_CHOC_V2" description="MEC 5G single pole normally-open tactile switch"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>115ff353-0ccc-4c95-9542-d5cb34093b00</tstamps>
+    </comp>
+    <comp ref="SW49">
+      <value>SW_MEC_5G</value>
+      <footprint>footprints:CherryMX_ChocV2_1u</footprint>
+      <datasheet>Custom switch</datasheet>
+      <libsource lib="project_library" part="SW_KAILH_CHOC_V2" description="MEC 5G single pole normally-open tactile switch"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b81f17e6-6ac6-428a-9e80-bb75b8519e3f</tstamps>
+    </comp>
+    <comp ref="SW50">
+      <value>SW_MEC_5G</value>
+      <footprint>footprints:CherryMX_ChocV2_1u</footprint>
+      <datasheet>Custom switch</datasheet>
+      <libsource lib="project_library" part="SW_KAILH_CHOC_V2" description="MEC 5G single pole normally-open tactile switch"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>af834e7d-08f2-4f28-b33f-4aa58ca2d112</tstamps>
+    </comp>
+    <comp ref="SW51">
+      <value>SW_MEC_5G</value>
+      <footprint>footprints:CherryMX_ChocV2_1u</footprint>
+      <datasheet>Custom switch</datasheet>
+      <libsource lib="project_library" part="SW_KAILH_CHOC_V2" description="MEC 5G single pole normally-open tactile switch"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>af593c3b-d193-4531-9141-69cffbf4d2b5</tstamps>
+    </comp>
+    <comp ref="SW52">
+      <value>SW_MEC_5G</value>
+      <footprint>footprints:CherryMX_ChocV2_1u</footprint>
+      <datasheet>Custom switch</datasheet>
+      <libsource lib="project_library" part="SW_KAILH_CHOC_V2" description="MEC 5G single pole normally-open tactile switch"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f8c47ac5-57ef-47d1-b82e-e0efe2ec7ffc</tstamps>
+    </comp>
+    <comp ref="SW53">
+      <value>SW_MEC_5G</value>
+      <footprint>footprints:CherryMX_ChocV2_1u</footprint>
+      <datasheet>Custom switch</datasheet>
+      <libsource lib="project_library" part="SW_KAILH_CHOC_V2" description="MEC 5G single pole normally-open tactile switch"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d3f3e266-8b4c-4024-a315-859002078be3</tstamps>
+    </comp>
+    <comp ref="SW54">
+      <value>SW_MEC_5G</value>
+      <footprint>footprints:CherryMX_ChocV2_1u</footprint>
+      <datasheet>Custom switch</datasheet>
+      <libsource lib="project_library" part="SW_KAILH_CHOC_V2" description="MEC 5G single pole normally-open tactile switch"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>606748d7-d479-449d-9c1f-ddaa738737da</tstamps>
+    </comp>
+    <comp ref="SW55">
+      <value>SW_MEC_5G</value>
+      <footprint>footprints:CherryMX_ChocV2_1u</footprint>
+      <datasheet>Custom switch</datasheet>
+      <libsource lib="project_library" part="SW_KAILH_CHOC_V2" description="MEC 5G single pole normally-open tactile switch"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b07170bd-c1cf-4788-bce7-7d793748e74e</tstamps>
+    </comp>
+    <comp ref="SW56">
+      <value>SW_MEC_5G</value>
+      <footprint>footprints:CherryMX_ChocV2_1u</footprint>
+      <datasheet>Custom switch</datasheet>
+      <libsource lib="project_library" part="SW_KAILH_CHOC_V2" description="MEC 5G single pole normally-open tactile switch"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d3843204-7a6a-4a29-99dc-2f21f07063e1</tstamps>
+    </comp>
+    <comp ref="SW57">
+      <value>SW_MEC_5G</value>
+      <footprint>footprints:CherryMX_ChocV2_1u</footprint>
+      <datasheet>Custom switch</datasheet>
+      <libsource lib="project_library" part="SW_KAILH_CHOC_V2" description="MEC 5G single pole normally-open tactile switch"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>68fe953a-ad75-4bc7-802c-be8df1785371</tstamps>
+    </comp>
+    <comp ref="SW58">
+      <value>SW_MEC_5G</value>
+      <footprint>footprints:CherryMX_ChocV2_1u</footprint>
+      <datasheet>Custom switch</datasheet>
+      <libsource lib="project_library" part="SW_KAILH_CHOC_V2" description="MEC 5G single pole normally-open tactile switch"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>22f14bad-d58a-4428-bf10-443d80fd9a8e</tstamps>
+    </comp>
+    <comp ref="SW59">
+      <value>SW_MEC_5G</value>
+      <footprint>footprints:CherryMX_ChocV2_1u</footprint>
+      <datasheet>Custom switch</datasheet>
+      <libsource lib="project_library" part="SW_KAILH_CHOC_V2" description="MEC 5G single pole normally-open tactile switch"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6ba2bf3d-9381-4358-896e-5fc59e3b18b0</tstamps>
+    </comp>
+    <comp ref="SW60">
+      <value>SW_MEC_5G</value>
+      <footprint>footprints:CherryMX_ChocV2_1u</footprint>
+      <datasheet>Custom switch</datasheet>
+      <libsource lib="project_library" part="SW_KAILH_CHOC_V2" description="MEC 5G single pole normally-open tactile switch"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a1abc39f-b795-45cc-ac2e-dc36ad388700</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value>MCP23017-E/SO</value>
+      <footprint>footprints:SOIC127P1030X265-28N</footprint>
+      <fields>
+        <field name="A1_MIN">0.1</field>
+        <field name="A_MAX">2.65</field>
+        <field name="A_MIN">2.65</field>
+        <field name="A_NOM">2.65</field>
+        <field name="B_MAX">0.51</field>
+        <field name="B_MIN">0.31</field>
+        <field name="B_NOM">0.41</field>
+        <field name="D2_MAX">0.0</field>
+        <field name="D_MAX">17.9</field>
+        <field name="D_MIN">17.9</field>
+        <field name="D_NOM">17.9</field>
+        <field name="E1_MAX">7.5</field>
+        <field name="E1_MIN">7.5</field>
+        <field name="E1_NOM">7.5</field>
+        <field name="E2_MAX">0.0</field>
+        <field name="ENOM">1.27</field>
+        <field name="E_MAX">10.3</field>
+        <field name="E_MIN">10.3</field>
+        <field name="E_NOM">10.3</field>
+        <field name="L_MAX">1.27</field>
+        <field name="L_MIN">0.4</field>
+        <field name="L_NOM">0.835</field>
+        <field name="MANUFACTURER">Microchip</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">2.65mm</field>
+        <field name="PARTREV">C</field>
+        <field name="PIN_COUNT">28.0</field>
+        <field name="STANDARD">IPC 7351B</field>
+      </fields>
+      <libsource lib="project_library" part="MCP23017-E{brace}slash}SO" description=""/>
+      <property name="PACKAGE_TYPE" value=""/>
+      <property name="L_MAX" value="1.27"/>
+      <property name="SNAPEDA_PACKAGE_ID" value=""/>
+      <property name="D_MIN" value="17.9"/>
+      <property name="D_MAX" value="17.9"/>
+      <property name="E1_MIN" value="7.5"/>
+      <property name="PARTREV" value="C"/>
+      <property name="PINS" value=""/>
+      <property name="L1_MIN" value=""/>
+      <property name="L1_NOM" value=""/>
+      <property name="EMAX" value=""/>
+      <property name="A_MAX" value="2.65"/>
+      <property name="E_NOM" value="10.3"/>
+      <property name="E1_NOM" value="7.5"/>
+      <property name="DNOM" value=""/>
+      <property name="A_NOM" value="2.65"/>
+      <property name="MANUFACTURER" value="Microchip"/>
+      <property name="B_NOM" value="0.41"/>
+      <property name="D2_MAX" value="0.0"/>
+      <property name="A_MIN" value="2.65"/>
+      <property name="D1_MAX" value=""/>
+      <property name="B_MIN" value="0.31"/>
+      <property name="D1_NOM" value=""/>
+      <property name="B_MAX" value="0.51"/>
+      <property name="PIN_COUNT" value="28.0"/>
+      <property name="A1_MIN" value="0.1"/>
+      <property name="VACANCIES" value=""/>
+      <property name="ENOM" value="1.27"/>
+      <property name="E_MAX" value="10.3"/>
+      <property name="E_MIN" value="10.3"/>
+      <property name="STANDARD" value="IPC 7351B"/>
+      <property name="D_NOM" value="17.9"/>
+      <property name="D1_MIN" value=""/>
+      <property name="MAXIMUM_PACKAGE_HEIGHT" value="2.65mm"/>
+      <property name="DMIN" value=""/>
+      <property name="EMIN" value=""/>
+      <property name="L_NOM" value="0.835"/>
+      <property name="DMAX" value=""/>
+      <property name="L_MIN" value="0.4"/>
+      <property name="E1_MAX" value="7.5"/>
+      <property name="E2_MAX" value="0.0"/>
+      <property name="L1_MAX" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a3c8a879-501a-44ce-b4c0-7690bb1264ba</tstamps>
+    </comp>
+    <comp ref="U2">
+      <value>MCP23017-E/SO</value>
+      <footprint>footprints:SOIC127P1030X265-28N</footprint>
+      <fields>
+        <field name="A1_MIN">0.1</field>
+        <field name="A_MAX">2.65</field>
+        <field name="A_MIN">2.65</field>
+        <field name="A_NOM">2.65</field>
+        <field name="B_MAX">0.51</field>
+        <field name="B_MIN">0.31</field>
+        <field name="B_NOM">0.41</field>
+        <field name="D2_MAX">0.0</field>
+        <field name="D_MAX">17.9</field>
+        <field name="D_MIN">17.9</field>
+        <field name="D_NOM">17.9</field>
+        <field name="E1_MAX">7.5</field>
+        <field name="E1_MIN">7.5</field>
+        <field name="E1_NOM">7.5</field>
+        <field name="E2_MAX">0.0</field>
+        <field name="ENOM">1.27</field>
+        <field name="E_MAX">10.3</field>
+        <field name="E_MIN">10.3</field>
+        <field name="E_NOM">10.3</field>
+        <field name="L_MAX">1.27</field>
+        <field name="L_MIN">0.4</field>
+        <field name="L_NOM">0.835</field>
+        <field name="MANUFACTURER">Microchip</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">2.65mm</field>
+        <field name="PARTREV">C</field>
+        <field name="PIN_COUNT">28.0</field>
+        <field name="STANDARD">IPC 7351B</field>
+      </fields>
+      <libsource lib="project_library" part="MCP23017-E{brace}slash}SO" description=""/>
+      <property name="PACKAGE_TYPE" value=""/>
+      <property name="L_MAX" value="1.27"/>
+      <property name="SNAPEDA_PACKAGE_ID" value=""/>
+      <property name="D_MIN" value="17.9"/>
+      <property name="D_MAX" value="17.9"/>
+      <property name="E1_MIN" value="7.5"/>
+      <property name="PARTREV" value="C"/>
+      <property name="PINS" value=""/>
+      <property name="L1_MIN" value=""/>
+      <property name="L1_NOM" value=""/>
+      <property name="EMAX" value=""/>
+      <property name="A_MAX" value="2.65"/>
+      <property name="E_NOM" value="10.3"/>
+      <property name="E1_NOM" value="7.5"/>
+      <property name="DNOM" value=""/>
+      <property name="A_NOM" value="2.65"/>
+      <property name="MANUFACTURER" value="Microchip"/>
+      <property name="B_NOM" value="0.41"/>
+      <property name="D2_MAX" value="0.0"/>
+      <property name="A_MIN" value="2.65"/>
+      <property name="D1_MAX" value=""/>
+      <property name="B_MIN" value="0.31"/>
+      <property name="D1_NOM" value=""/>
+      <property name="B_MAX" value="0.51"/>
+      <property name="PIN_COUNT" value="28.0"/>
+      <property name="A1_MIN" value="0.1"/>
+      <property name="VACANCIES" value=""/>
+      <property name="ENOM" value="1.27"/>
+      <property name="E_MAX" value="10.3"/>
+      <property name="E_MIN" value="10.3"/>
+      <property name="STANDARD" value="IPC 7351B"/>
+      <property name="D_NOM" value="17.9"/>
+      <property name="D1_MIN" value=""/>
+      <property name="MAXIMUM_PACKAGE_HEIGHT" value="2.65mm"/>
+      <property name="DMIN" value=""/>
+      <property name="EMIN" value=""/>
+      <property name="L_NOM" value="0.835"/>
+      <property name="DMAX" value=""/>
+      <property name="L_MIN" value="0.4"/>
+      <property name="E1_MAX" value="7.5"/>
+      <property name="E2_MAX" value="0.0"/>
+      <property name="L1_MAX" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>52d56aab-6ac9-4a8a-a21d-b751f8aeb14d</tstamps>
+    </comp>
+    <comp ref="U3">
+      <value>MCP23017-E/SO</value>
+      <footprint>footprints:SOIC127P1030X265-28N</footprint>
+      <fields>
+        <field name="A1_MIN">0.1</field>
+        <field name="A_MAX">2.65</field>
+        <field name="A_MIN">2.65</field>
+        <field name="A_NOM">2.65</field>
+        <field name="B_MAX">0.51</field>
+        <field name="B_MIN">0.31</field>
+        <field name="B_NOM">0.41</field>
+        <field name="D2_MAX">0.0</field>
+        <field name="D_MAX">17.9</field>
+        <field name="D_MIN">17.9</field>
+        <field name="D_NOM">17.9</field>
+        <field name="E1_MAX">7.5</field>
+        <field name="E1_MIN">7.5</field>
+        <field name="E1_NOM">7.5</field>
+        <field name="E2_MAX">0.0</field>
+        <field name="ENOM">1.27</field>
+        <field name="E_MAX">10.3</field>
+        <field name="E_MIN">10.3</field>
+        <field name="E_NOM">10.3</field>
+        <field name="L_MAX">1.27</field>
+        <field name="L_MIN">0.4</field>
+        <field name="L_NOM">0.835</field>
+        <field name="MANUFACTURER">Microchip</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">2.65mm</field>
+        <field name="PARTREV">C</field>
+        <field name="PIN_COUNT">28.0</field>
+        <field name="STANDARD">IPC 7351B</field>
+      </fields>
+      <libsource lib="project_library" part="MCP23017-E{brace}slash}SO" description=""/>
+      <property name="PACKAGE_TYPE" value=""/>
+      <property name="L_MAX" value="1.27"/>
+      <property name="SNAPEDA_PACKAGE_ID" value=""/>
+      <property name="D_MIN" value="17.9"/>
+      <property name="D_MAX" value="17.9"/>
+      <property name="E1_MIN" value="7.5"/>
+      <property name="PARTREV" value="C"/>
+      <property name="PINS" value=""/>
+      <property name="L1_MIN" value=""/>
+      <property name="L1_NOM" value=""/>
+      <property name="EMAX" value=""/>
+      <property name="A_MAX" value="2.65"/>
+      <property name="E_NOM" value="10.3"/>
+      <property name="E1_NOM" value="7.5"/>
+      <property name="DNOM" value=""/>
+      <property name="A_NOM" value="2.65"/>
+      <property name="MANUFACTURER" value="Microchip"/>
+      <property name="B_NOM" value="0.41"/>
+      <property name="D2_MAX" value="0.0"/>
+      <property name="A_MIN" value="2.65"/>
+      <property name="D1_MAX" value=""/>
+      <property name="B_MIN" value="0.31"/>
+      <property name="D1_NOM" value=""/>
+      <property name="B_MAX" value="0.51"/>
+      <property name="PIN_COUNT" value="28.0"/>
+      <property name="A1_MIN" value="0.1"/>
+      <property name="VACANCIES" value=""/>
+      <property name="ENOM" value="1.27"/>
+      <property name="E_MAX" value="10.3"/>
+      <property name="E_MIN" value="10.3"/>
+      <property name="STANDARD" value="IPC 7351B"/>
+      <property name="D_NOM" value="17.9"/>
+      <property name="D1_MIN" value=""/>
+      <property name="MAXIMUM_PACKAGE_HEIGHT" value="2.65mm"/>
+      <property name="DMIN" value=""/>
+      <property name="EMIN" value=""/>
+      <property name="L_NOM" value="0.835"/>
+      <property name="DMAX" value=""/>
+      <property name="L_MIN" value="0.4"/>
+      <property name="E1_MAX" value="7.5"/>
+      <property name="E2_MAX" value="0.0"/>
+      <property name="L1_MAX" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>036da771-e0b9-4c7b-9363-7966b0e1cc39</tstamps>
+    </comp>
+    <comp ref="U4">
+      <value>MCP23017-E/SO</value>
+      <footprint>footprints:SOIC127P1030X265-28N</footprint>
+      <fields>
+        <field name="A1_MIN">0.1</field>
+        <field name="A_MAX">2.65</field>
+        <field name="A_MIN">2.65</field>
+        <field name="A_NOM">2.65</field>
+        <field name="B_MAX">0.51</field>
+        <field name="B_MIN">0.31</field>
+        <field name="B_NOM">0.41</field>
+        <field name="D2_MAX">0.0</field>
+        <field name="D_MAX">17.9</field>
+        <field name="D_MIN">17.9</field>
+        <field name="D_NOM">17.9</field>
+        <field name="E1_MAX">7.5</field>
+        <field name="E1_MIN">7.5</field>
+        <field name="E1_NOM">7.5</field>
+        <field name="E2_MAX">0.0</field>
+        <field name="ENOM">1.27</field>
+        <field name="E_MAX">10.3</field>
+        <field name="E_MIN">10.3</field>
+        <field name="E_NOM">10.3</field>
+        <field name="L_MAX">1.27</field>
+        <field name="L_MIN">0.4</field>
+        <field name="L_NOM">0.835</field>
+        <field name="MANUFACTURER">Microchip</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">2.65mm</field>
+        <field name="PARTREV">C</field>
+        <field name="PIN_COUNT">28.0</field>
+        <field name="STANDARD">IPC 7351B</field>
+      </fields>
+      <libsource lib="project_library" part="MCP23017-E{brace}slash}SO" description=""/>
+      <property name="PACKAGE_TYPE" value=""/>
+      <property name="L_MAX" value="1.27"/>
+      <property name="SNAPEDA_PACKAGE_ID" value=""/>
+      <property name="D_MIN" value="17.9"/>
+      <property name="D_MAX" value="17.9"/>
+      <property name="E1_MIN" value="7.5"/>
+      <property name="PARTREV" value="C"/>
+      <property name="PINS" value=""/>
+      <property name="L1_MIN" value=""/>
+      <property name="L1_NOM" value=""/>
+      <property name="EMAX" value=""/>
+      <property name="A_MAX" value="2.65"/>
+      <property name="E_NOM" value="10.3"/>
+      <property name="E1_NOM" value="7.5"/>
+      <property name="DNOM" value=""/>
+      <property name="A_NOM" value="2.65"/>
+      <property name="MANUFACTURER" value="Microchip"/>
+      <property name="B_NOM" value="0.41"/>
+      <property name="D2_MAX" value="0.0"/>
+      <property name="A_MIN" value="2.65"/>
+      <property name="D1_MAX" value=""/>
+      <property name="B_MIN" value="0.31"/>
+      <property name="D1_NOM" value=""/>
+      <property name="B_MAX" value="0.51"/>
+      <property name="PIN_COUNT" value="28.0"/>
+      <property name="A1_MIN" value="0.1"/>
+      <property name="VACANCIES" value=""/>
+      <property name="ENOM" value="1.27"/>
+      <property name="E_MAX" value="10.3"/>
+      <property name="E_MIN" value="10.3"/>
+      <property name="STANDARD" value="IPC 7351B"/>
+      <property name="D_NOM" value="17.9"/>
+      <property name="D1_MIN" value=""/>
+      <property name="MAXIMUM_PACKAGE_HEIGHT" value="2.65mm"/>
+      <property name="DMIN" value=""/>
+      <property name="EMIN" value=""/>
+      <property name="L_NOM" value="0.835"/>
+      <property name="DMAX" value=""/>
+      <property name="L_MIN" value="0.4"/>
+      <property name="E1_MAX" value="7.5"/>
+      <property name="E2_MAX" value="0.0"/>
+      <property name="L1_MAX" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b0cc2b5a-7967-4f2a-a09c-4bbcb6c4e9aa</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Device" part="R">
+      <description>Resistor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="project_library" part="MCP23017-E{brace}slash}SO">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">MCP23017-E{brace}slash}SO</field>
+        <field name="Footprint">SOIC127P1030X265-28N</field>
+        <field name="L_MAX">1.27</field>
+        <field name="D_MIN">17.9</field>
+        <field name="D_MAX">17.9</field>
+        <field name="E1_MIN">7.5</field>
+        <field name="PARTREV">C</field>
+        <field name="A_MAX">2.65</field>
+        <field name="E_NOM">10.3</field>
+        <field name="E1_NOM">7.5</field>
+        <field name="A_NOM">2.65</field>
+        <field name="MANUFACTURER">Microchip</field>
+        <field name="B_NOM">0.41</field>
+        <field name="D2_MAX">0.0</field>
+        <field name="A_MIN">2.65</field>
+        <field name="B_MIN">0.31</field>
+        <field name="B_MAX">0.51</field>
+        <field name="PIN_COUNT">28.0</field>
+        <field name="A1_MIN">0.1</field>
+        <field name="ENOM">1.27</field>
+        <field name="E_MAX">10.3</field>
+        <field name="E_MIN">10.3</field>
+        <field name="STANDARD">IPC 7351B</field>
+        <field name="D_NOM">17.9</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">2.65mm</field>
+        <field name="L_NOM">0.835</field>
+        <field name="L_MIN">0.4</field>
+        <field name="E1_MAX">7.5</field>
+        <field name="E2_MAX">0.0</field>
+      </fields>
+      <pins>
+        <pin num="1" name="GPB0" type="bidirectional"/>
+        <pin num="2" name="GPB1" type="bidirectional"/>
+        <pin num="3" name="GPB2" type="bidirectional"/>
+        <pin num="4" name="GPB3" type="bidirectional"/>
+        <pin num="5" name="GPB4" type="bidirectional"/>
+        <pin num="6" name="GPB5" type="bidirectional"/>
+        <pin num="7" name="GPB6" type="bidirectional"/>
+        <pin num="8" name="GPB7" type="bidirectional"/>
+        <pin num="9" name="VDD" type="power_in"/>
+        <pin num="10" name="VSS" type="power_in"/>
+        <pin num="12" name="SCK" type="input"/>
+        <pin num="13" name="SDA" type="bidirectional"/>
+        <pin num="15" name="A0" type="input"/>
+        <pin num="16" name="A1" type="input"/>
+        <pin num="17" name="A2" type="input"/>
+        <pin num="18" name="~{RESET}" type="output"/>
+        <pin num="19" name="INTB" type="output"/>
+        <pin num="20" name="INTA" type="output"/>
+        <pin num="21" name="GPA0" type="bidirectional"/>
+        <pin num="22" name="GPA1" type="bidirectional"/>
+        <pin num="23" name="GPA2" type="bidirectional"/>
+        <pin num="24" name="GPA3" type="bidirectional"/>
+        <pin num="25" name="GPA4" type="bidirectional"/>
+        <pin num="26" name="GPA5" type="bidirectional"/>
+        <pin num="27" name="GPA6" type="bidirectional"/>
+        <pin num="28" name="GPA7" type="bidirectional"/>
+      </pins>
+    </libpart>
+    <libpart lib="project_library" part="SW_KAILH_CHOC_V2">
+      <description>MEC 5G single pole normally-open tactile switch</description>
+      <docs>Custom switch</docs>
+      <footprints>
+        <fp>SW*MEC*5G*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">SW</field>
+        <field name="Value">SW_KAILH_CHOC_V2</field>
+        <field name="Datasheet">Custom switch</field>
+      </fields>
+      <pins>
+        <pin num="1" name="A" type="passive"/>
+        <pin num="2" name="B" type="passive"/>
+        <pin num="4" name="B" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="project_library" part="TINY2040-pimoroni-boards">
+      <footprints>
+        <fp>*TINY2040*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">A</field>
+        <field name="Value">TINY2040-pimoroni-boards</field>
+        <field name="Footprint">pimoroni-boards_TINY2040</field>
+      </fields>
+      <pins>
+        <pin num="0" name="0" type="bidirectional"/>
+        <pin num="1" name="1" type="bidirectional"/>
+        <pin num="2" name="2" type="bidirectional"/>
+        <pin num="3" name="3" type="bidirectional"/>
+        <pin num="3V3" name="3V3" type="power_out"/>
+        <pin num="4" name="4" type="bidirectional"/>
+        <pin num="5" name="5" type="bidirectional"/>
+        <pin num="5V" name="5V" type="bidirectional"/>
+        <pin num="6" name="6" type="bidirectional"/>
+        <pin num="7" name="7" type="bidirectional"/>
+        <pin num="A0" name="A0" type="bidirectional"/>
+        <pin num="A1" name="A1" type="bidirectional"/>
+        <pin num="A2" name="A2" type="bidirectional"/>
+        <pin num="A3" name="A3" type="bidirectional"/>
+        <pin num="GND1" name="GND1" type="power_out"/>
+        <pin num="GND2" name="GND2" type="power_out"/>
+        <pin num="GND3" name="GND3" type="power_out"/>
+        <pin num="SWCLK" name="SWCLK" type="bidirectional"/>
+        <pin num="SWDIO" name="SWDIO" type="bidirectional"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Device">
+      <uri>/usr/share/kicad/symbols//Device.kicad_sym</uri>
+    </library>
+    <library logical="project_library">
+      <uri>/home/wholteza/repos/wrist-pain-kb/kicad/assets/project_library.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="/3v3">
+      <node ref="A1" pin="3V3" pinfunction="3V3" pintype="power_out"/>
+      <node ref="R1" pin="1" pintype="passive"/>
+      <node ref="R2" pin="1" pintype="passive"/>
+      <node ref="R3" pin="2" pintype="passive"/>
+      <node ref="R4" pin="2" pintype="passive"/>
+      <node ref="R5" pin="2" pintype="passive"/>
+      <node ref="R6" pin="2" pintype="passive"/>
+      <node ref="R7" pin="2" pintype="passive"/>
+      <node ref="R8" pin="1" pintype="passive"/>
+      <node ref="R9" pin="1" pintype="passive"/>
+      <node ref="U1" pin="9" pinfunction="VDD" pintype="power_in"/>
+      <node ref="U2" pin="9" pinfunction="VDD" pintype="power_in"/>
+      <node ref="U3" pin="9" pinfunction="VDD" pintype="power_in"/>
+      <node ref="U4" pin="9" pinfunction="VDD" pintype="power_in"/>
+    </net>
+    <net code="2" name="/GND">
+      <node ref="A1" pin="GND1" pinfunction="GND1" pintype="power_out"/>
+      <node ref="SW1" pin="2" pinfunction="B" pintype="passive"/>
+      <node ref="SW1" pin="4" pinfunction="B" pintype="passive"/>
+      <node ref="SW10" pin="2" pinfunction="B" pintype="passive"/>
+      <node ref="SW10" pin="4" pinfunction="B" pintype="passive"/>
+      <node ref="SW11" pin="2" pinfunction="B" pintype="passive"/>
+      <node ref="SW11" pin="4" pinfunction="B" pintype="passive"/>
+      <node ref="SW12" pin="2" pinfunction="B" pintype="passive"/>
+      <node ref="SW12" pin="4" pinfunction="B" pintype="passive"/>
+      <node ref="SW13" pin="2" pinfunction="B" pintype="passive"/>
+      <node ref="SW13" pin="4" pinfunction="B" pintype="passive"/>
+      <node ref="SW14" pin="2" pinfunction="B" pintype="passive"/>
+      <node ref="SW14" pin="4" pinfunction="B" pintype="passive"/>
+      <node ref="SW15" pin="2" pinfunction="B" pintype="passive"/>
+      <node ref="SW15" pin="4" pinfunction="B" pintype="passive"/>
+      <node ref="SW16" pin="2" pinfunction="B" pintype="passive"/>
+      <node ref="SW16" pin="4" pinfunction="B" pintype="passive"/>
+      <node ref="SW17" pin="2" pinfunction="B" pintype="passive"/>
+      <node ref="SW17" pin="4" pinfunction="B" pintype="passive"/>
+      <node ref="SW18" pin="2" pinfunction="B" pintype="passive"/>
+      <node ref="SW18" pin="4" pinfunction="B" pintype="passive"/>
+      <node ref="SW19" pin="2" pinfunction="B" pintype="passive"/>
+      <node ref="SW19" pin="4" pinfunction="B" pintype="passive"/>
+      <node ref="SW2" pin="2" pinfunction="B" pintype="passive"/>
+      <node ref="SW2" pin="4" pinfunction="B" pintype="passive"/>
+      <node ref="SW20" pin="2" pinfunction="B" pintype="passive"/>
+      <node ref="SW20" pin="4" pinfunction="B" pintype="passive"/>
+      <node ref="SW21" pin="2" pinfunction="B" pintype="passive"/>
+      <node ref="SW21" pin="4" pinfunction="B" pintype="passive"/>
+      <node ref="SW22" pin="2" pinfunction="B" pintype="passive"/>
+      <node ref="SW22" pin="4" pinfunction="B" pintype="passive"/>
+      <node ref="SW23" pin="2" pinfunction="B" pintype="passive"/>
+      <node ref="SW23" pin="4" pinfunction="B" pintype="passive"/>
+      <node ref="SW24" pin="2" pinfunction="B" pintype="passive"/>
+      <node ref="SW24" pin="4" pinfunction="B" pintype="passive"/>
+      <node ref="SW25" pin="2" pinfunction="B" pintype="passive"/>
+      <node ref="SW25" pin="4" pinfunction="B" pintype="passive"/>
+      <node ref="SW26" pin="2" pinfunction="B" pintype="passive"/>
+      <node ref="SW26" pin="4" pinfunction="B" pintype="passive"/>
+      <node ref="SW27" pin="2" pinfunction="B" pintype="passive"/>
+      <node ref="SW27" pin="4" pinfunction="B" pintype="passive"/>
+      <node ref="SW28" pin="2" pinfunction="B" pintype="passive"/>
+      <node ref="SW28" pin="4" pinfunction="B" pintype="passive"/>
+      <node ref="SW29" pin="2" pinfunction="B" pintype="passive"/>
+      <node ref="SW29" pin="4" pinfunction="B" pintype="passive"/>
+      <node ref="SW3" pin="2" pinfunction="B" pintype="passive"/>
+      <node ref="SW3" pin="4" pinfunction="B" pintype="passive"/>
+      <node ref="SW30" pin="2" pinfunction="B" pintype="passive"/>
+      <node ref="SW30" pin="4" pinfunction="B" pintype="passive"/>
+      <node ref="SW31" pin="2" pinfunction="B" pintype="passive"/>
+      <node ref="SW31" pin="4" pinfunction="B" pintype="passive"/>
+      <node ref="SW32" pin="2" pinfunction="B" pintype="passive"/>
+      <node ref="SW32" pin="4" pinfunction="B" pintype="passive"/>
+      <node ref="SW33" pin="2" pinfunction="B" pintype="passive"/>
+      <node ref="SW33" pin="4" pinfunction="B" pintype="passive"/>
+      <node ref="SW34" pin="2" pinfunction="B" pintype="passive"/>
+      <node ref="SW34" pin="4" pinfunction="B" pintype="passive"/>
+      <node ref="SW35" pin="2" pinfunction="B" pintype="passive"/>
+      <node ref="SW35" pin="4" pinfunction="B" pintype="passive"/>
+      <node ref="SW36" pin="2" pinfunction="B" pintype="passive"/>
+      <node ref="SW36" pin="4" pinfunction="B" pintype="passive"/>
+      <node ref="SW37" pin="2" pinfunction="B" pintype="passive"/>
+      <node ref="SW37" pin="4" pinfunction="B" pintype="passive"/>
+      <node ref="SW38" pin="2" pinfunction="B" pintype="passive"/>
+      <node ref="SW38" pin="4" pinfunction="B" pintype="passive"/>
+      <node ref="SW39" pin="2" pinfunction="B" pintype="passive"/>
+      <node ref="SW39" pin="4" pinfunction="B" pintype="passive"/>
+      <node ref="SW4" pin="2" pinfunction="B" pintype="passive"/>
+      <node ref="SW4" pin="4" pinfunction="B" pintype="passive"/>
+      <node ref="SW40" pin="2" pinfunction="B" pintype="passive"/>
+      <node ref="SW40" pin="4" pinfunction="B" pintype="passive"/>
+      <node ref="SW41" pin="2" pinfunction="B" pintype="passive"/>
+      <node ref="SW41" pin="4" pinfunction="B" pintype="passive"/>
+      <node ref="SW42" pin="2" pinfunction="B" pintype="passive"/>
+      <node ref="SW42" pin="4" pinfunction="B" pintype="passive"/>
+      <node ref="SW43" pin="2" pinfunction="B" pintype="passive"/>
+      <node ref="SW43" pin="4" pinfunction="B" pintype="passive"/>
+      <node ref="SW44" pin="2" pinfunction="B" pintype="passive"/>
+      <node ref="SW44" pin="4" pinfunction="B" pintype="passive"/>
+      <node ref="SW45" pin="2" pinfunction="B" pintype="passive"/>
+      <node ref="SW45" pin="4" pinfunction="B" pintype="passive"/>
+      <node ref="SW46" pin="2" pinfunction="B" pintype="passive"/>
+      <node ref="SW46" pin="4" pinfunction="B" pintype="passive"/>
+      <node ref="SW47" pin="2" pinfunction="B" pintype="passive"/>
+      <node ref="SW47" pin="4" pinfunction="B" pintype="passive"/>
+      <node ref="SW48" pin="2" pinfunction="B" pintype="passive"/>
+      <node ref="SW48" pin="4" pinfunction="B" pintype="passive"/>
+      <node ref="SW49" pin="2" pinfunction="B" pintype="passive"/>
+      <node ref="SW49" pin="4" pinfunction="B" pintype="passive"/>
+      <node ref="SW5" pin="2" pinfunction="B" pintype="passive"/>
+      <node ref="SW5" pin="4" pinfunction="B" pintype="passive"/>
+      <node ref="SW50" pin="2" pinfunction="B" pintype="passive"/>
+      <node ref="SW50" pin="4" pinfunction="B" pintype="passive"/>
+      <node ref="SW51" pin="2" pinfunction="B" pintype="passive"/>
+      <node ref="SW51" pin="4" pinfunction="B" pintype="passive"/>
+      <node ref="SW52" pin="2" pinfunction="B" pintype="passive"/>
+      <node ref="SW52" pin="4" pinfunction="B" pintype="passive"/>
+      <node ref="SW53" pin="2" pinfunction="B" pintype="passive"/>
+      <node ref="SW53" pin="4" pinfunction="B" pintype="passive"/>
+      <node ref="SW54" pin="2" pinfunction="B" pintype="passive"/>
+      <node ref="SW54" pin="4" pinfunction="B" pintype="passive"/>
+      <node ref="SW55" pin="2" pinfunction="B" pintype="passive"/>
+      <node ref="SW55" pin="4" pinfunction="B" pintype="passive"/>
+      <node ref="SW56" pin="2" pinfunction="B" pintype="passive"/>
+      <node ref="SW56" pin="4" pinfunction="B" pintype="passive"/>
+      <node ref="SW57" pin="2" pinfunction="B" pintype="passive"/>
+      <node ref="SW57" pin="4" pinfunction="B" pintype="passive"/>
+      <node ref="SW58" pin="2" pinfunction="B" pintype="passive"/>
+      <node ref="SW58" pin="4" pinfunction="B" pintype="passive"/>
+      <node ref="SW59" pin="2" pinfunction="B" pintype="passive"/>
+      <node ref="SW59" pin="4" pinfunction="B" pintype="passive"/>
+      <node ref="SW6" pin="2" pinfunction="B" pintype="passive"/>
+      <node ref="SW6" pin="4" pinfunction="B" pintype="passive"/>
+      <node ref="SW60" pin="2" pinfunction="B" pintype="passive"/>
+      <node ref="SW60" pin="4" pinfunction="B" pintype="passive"/>
+      <node ref="SW7" pin="2" pinfunction="B" pintype="passive"/>
+      <node ref="SW7" pin="4" pinfunction="B" pintype="passive"/>
+      <node ref="SW8" pin="2" pinfunction="B" pintype="passive"/>
+      <node ref="SW8" pin="4" pinfunction="B" pintype="passive"/>
+      <node ref="SW9" pin="2" pinfunction="B" pintype="passive"/>
+      <node ref="SW9" pin="4" pinfunction="B" pintype="passive"/>
+      <node ref="U1" pin="10" pinfunction="VSS" pintype="power_in"/>
+      <node ref="U1" pin="15" pinfunction="A0" pintype="input"/>
+      <node ref="U1" pin="16" pinfunction="A1" pintype="input"/>
+      <node ref="U1" pin="17" pinfunction="A2" pintype="input"/>
+      <node ref="U2" pin="10" pinfunction="VSS" pintype="power_in"/>
+      <node ref="U2" pin="16" pinfunction="A1" pintype="input"/>
+      <node ref="U2" pin="17" pinfunction="A2" pintype="input"/>
+      <node ref="U3" pin="10" pinfunction="VSS" pintype="power_in"/>
+      <node ref="U3" pin="15" pinfunction="A0" pintype="input"/>
+      <node ref="U3" pin="17" pinfunction="A2" pintype="input"/>
+      <node ref="U4" pin="10" pinfunction="VSS" pintype="power_in"/>
+      <node ref="U4" pin="15" pinfunction="A0" pintype="input"/>
+      <node ref="U4" pin="16" pinfunction="A1" pintype="input"/>
+    </net>
+    <net code="3" name="/IIC_CLOCK">
+      <node ref="A1" pin="0" pinfunction="0" pintype="bidirectional"/>
+      <node ref="R2" pin="2" pintype="passive"/>
+      <node ref="U1" pin="12" pinfunction="SCK" pintype="input"/>
+      <node ref="U2" pin="12" pinfunction="SCK" pintype="input"/>
+      <node ref="U3" pin="12" pinfunction="SCK" pintype="input"/>
+      <node ref="U4" pin="12" pinfunction="SCK" pintype="input"/>
+    </net>
+    <net code="4" name="/IIC_DATA">
+      <node ref="A1" pin="1" pinfunction="1" pintype="bidirectional"/>
+      <node ref="R3" pin="1" pintype="passive"/>
+      <node ref="U1" pin="13" pinfunction="SDA" pintype="bidirectional"/>
+      <node ref="U2" pin="13" pinfunction="SDA" pintype="bidirectional"/>
+      <node ref="U3" pin="13" pinfunction="SDA" pintype="bidirectional"/>
+      <node ref="U4" pin="13" pinfunction="SDA" pintype="bidirectional"/>
+    </net>
+    <net code="5" name="/SW1">
+      <node ref="SW1" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="SW1" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="U1" pin="1" pinfunction="GPB0" pintype="bidirectional"/>
+    </net>
+    <net code="6" name="/SW2">
+      <node ref="SW2" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="SW2" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="U1" pin="21" pinfunction="GPA0" pintype="bidirectional"/>
+    </net>
+    <net code="7" name="/SW3">
+      <node ref="SW3" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="SW3" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="U1" pin="2" pinfunction="GPB1" pintype="bidirectional"/>
+    </net>
+    <net code="8" name="/SW4">
+      <node ref="SW4" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="SW4" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="U1" pin="22" pinfunction="GPA1" pintype="bidirectional"/>
+    </net>
+    <net code="9" name="/SW5">
+      <node ref="SW5" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="SW5" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="U1" pin="3" pinfunction="GPB2" pintype="bidirectional"/>
+    </net>
+    <net code="10" name="/SW6">
+      <node ref="SW6" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="SW6" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="U1" pin="23" pinfunction="GPA2" pintype="bidirectional"/>
+    </net>
+    <net code="11" name="/SW7">
+      <node ref="SW7" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="SW7" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="U1" pin="4" pinfunction="GPB3" pintype="bidirectional"/>
+    </net>
+    <net code="12" name="/SW8">
+      <node ref="SW8" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="SW8" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="U1" pin="24" pinfunction="GPA3" pintype="bidirectional"/>
+    </net>
+    <net code="13" name="/SW9">
+      <node ref="SW9" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="SW9" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="U1" pin="5" pinfunction="GPB4" pintype="bidirectional"/>
+    </net>
+    <net code="14" name="/SW10">
+      <node ref="SW10" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="SW10" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="U1" pin="25" pinfunction="GPA4" pintype="bidirectional"/>
+    </net>
+    <net code="15" name="/SW11">
+      <node ref="SW11" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="SW11" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="U1" pin="6" pinfunction="GPB5" pintype="bidirectional"/>
+    </net>
+    <net code="16" name="/SW12">
+      <node ref="SW12" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="SW12" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="U1" pin="26" pinfunction="GPA5" pintype="bidirectional"/>
+    </net>
+    <net code="17" name="/SW13">
+      <node ref="SW13" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="SW13" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="U1" pin="7" pinfunction="GPB6" pintype="bidirectional"/>
+    </net>
+    <net code="18" name="/SW14">
+      <node ref="SW14" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="SW14" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="U1" pin="27" pinfunction="GPA6" pintype="bidirectional"/>
+    </net>
+    <net code="19" name="/SW15">
+      <node ref="SW15" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="SW15" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="U1" pin="8" pinfunction="GPB7" pintype="bidirectional"/>
+    </net>
+    <net code="20" name="/SW16">
+      <node ref="SW16" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="SW16" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="U1" pin="28" pinfunction="GPA7" pintype="bidirectional"/>
+    </net>
+    <net code="21" name="/SW17">
+      <node ref="SW17" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="SW17" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="U2" pin="1" pinfunction="GPB0" pintype="bidirectional"/>
+    </net>
+    <net code="22" name="/SW18">
+      <node ref="SW18" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="SW18" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="U2" pin="21" pinfunction="GPA0" pintype="bidirectional"/>
+    </net>
+    <net code="23" name="/SW19">
+      <node ref="SW19" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="SW19" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="U2" pin="2" pinfunction="GPB1" pintype="bidirectional"/>
+    </net>
+    <net code="24" name="/SW20">
+      <node ref="SW20" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="SW20" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="U2" pin="22" pinfunction="GPA1" pintype="bidirectional"/>
+    </net>
+    <net code="25" name="/SW21">
+      <node ref="SW21" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="SW21" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="U2" pin="3" pinfunction="GPB2" pintype="bidirectional"/>
+    </net>
+    <net code="26" name="/SW22">
+      <node ref="SW22" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="SW22" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="U2" pin="23" pinfunction="GPA2" pintype="bidirectional"/>
+    </net>
+    <net code="27" name="/SW23">
+      <node ref="SW23" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="SW23" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="U2" pin="4" pinfunction="GPB3" pintype="bidirectional"/>
+    </net>
+    <net code="28" name="/SW24">
+      <node ref="SW24" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="SW24" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="U2" pin="24" pinfunction="GPA3" pintype="bidirectional"/>
+    </net>
+    <net code="29" name="/SW25">
+      <node ref="SW25" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="SW25" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="U2" pin="5" pinfunction="GPB4" pintype="bidirectional"/>
+    </net>
+    <net code="30" name="/SW26">
+      <node ref="SW26" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="SW26" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="U2" pin="25" pinfunction="GPA4" pintype="bidirectional"/>
+    </net>
+    <net code="31" name="/SW27">
+      <node ref="SW27" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="SW27" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="U2" pin="6" pinfunction="GPB5" pintype="bidirectional"/>
+    </net>
+    <net code="32" name="/SW28">
+      <node ref="SW28" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="SW28" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="U2" pin="26" pinfunction="GPA5" pintype="bidirectional"/>
+    </net>
+    <net code="33" name="/SW29">
+      <node ref="SW29" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="SW29" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="U2" pin="7" pinfunction="GPB6" pintype="bidirectional"/>
+    </net>
+    <net code="34" name="/SW30">
+      <node ref="SW30" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="SW30" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="U2" pin="27" pinfunction="GPA6" pintype="bidirectional"/>
+    </net>
+    <net code="35" name="/SW31">
+      <node ref="SW31" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="SW31" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="U2" pin="8" pinfunction="GPB7" pintype="bidirectional"/>
+    </net>
+    <net code="36" name="/SW32">
+      <node ref="SW32" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="SW32" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="U2" pin="28" pinfunction="GPA7" pintype="bidirectional"/>
+    </net>
+    <net code="37" name="/SW33">
+      <node ref="SW33" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="SW33" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="U3" pin="1" pinfunction="GPB0" pintype="bidirectional"/>
+    </net>
+    <net code="38" name="/SW34">
+      <node ref="SW34" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="SW34" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="U3" pin="21" pinfunction="GPA0" pintype="bidirectional"/>
+    </net>
+    <net code="39" name="/SW35">
+      <node ref="SW35" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="SW35" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="U3" pin="2" pinfunction="GPB1" pintype="bidirectional"/>
+    </net>
+    <net code="40" name="/SW36">
+      <node ref="SW36" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="SW36" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="U3" pin="22" pinfunction="GPA1" pintype="bidirectional"/>
+    </net>
+    <net code="41" name="/SW37">
+      <node ref="SW37" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="SW37" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="U3" pin="3" pinfunction="GPB2" pintype="bidirectional"/>
+    </net>
+    <net code="42" name="/SW38">
+      <node ref="SW38" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="SW38" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="U3" pin="23" pinfunction="GPA2" pintype="bidirectional"/>
+    </net>
+    <net code="43" name="/SW39">
+      <node ref="SW39" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="SW39" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="U3" pin="4" pinfunction="GPB3" pintype="bidirectional"/>
+    </net>
+    <net code="44" name="/SW40">
+      <node ref="SW40" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="SW40" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="U3" pin="24" pinfunction="GPA3" pintype="bidirectional"/>
+    </net>
+    <net code="45" name="/SW41">
+      <node ref="SW41" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="SW41" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="U3" pin="5" pinfunction="GPB4" pintype="bidirectional"/>
+    </net>
+    <net code="46" name="/SW42">
+      <node ref="SW42" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="SW42" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="U3" pin="25" pinfunction="GPA4" pintype="bidirectional"/>
+    </net>
+    <net code="47" name="/SW43">
+      <node ref="SW43" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="SW43" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="U3" pin="6" pinfunction="GPB5" pintype="bidirectional"/>
+    </net>
+    <net code="48" name="/SW44">
+      <node ref="SW44" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="SW44" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="U3" pin="26" pinfunction="GPA5" pintype="bidirectional"/>
+    </net>
+    <net code="49" name="/SW45">
+      <node ref="SW45" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="SW45" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="U3" pin="7" pinfunction="GPB6" pintype="bidirectional"/>
+    </net>
+    <net code="50" name="/SW46">
+      <node ref="SW46" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="SW46" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="U3" pin="27" pinfunction="GPA6" pintype="bidirectional"/>
+    </net>
+    <net code="51" name="/SW47">
+      <node ref="SW47" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="SW47" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="U3" pin="8" pinfunction="GPB7" pintype="bidirectional"/>
+    </net>
+    <net code="52" name="/SW48">
+      <node ref="SW48" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="SW48" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="U3" pin="28" pinfunction="GPA7" pintype="bidirectional"/>
+    </net>
+    <net code="53" name="/SW49">
+      <node ref="SW49" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="SW49" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="U4" pin="1" pinfunction="GPB0" pintype="bidirectional"/>
+    </net>
+    <net code="54" name="/SW50">
+      <node ref="SW50" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="SW50" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="U4" pin="21" pinfunction="GPA0" pintype="bidirectional"/>
+    </net>
+    <net code="55" name="/SW51">
+      <node ref="SW51" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="SW51" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="U4" pin="2" pinfunction="GPB1" pintype="bidirectional"/>
+    </net>
+    <net code="56" name="/SW52">
+      <node ref="SW52" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="SW52" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="U4" pin="22" pinfunction="GPA1" pintype="bidirectional"/>
+    </net>
+    <net code="57" name="/SW53">
+      <node ref="SW53" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="SW53" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="U4" pin="3" pinfunction="GPB2" pintype="bidirectional"/>
+    </net>
+    <net code="58" name="/SW54">
+      <node ref="SW54" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="SW54" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="U4" pin="23" pinfunction="GPA2" pintype="bidirectional"/>
+    </net>
+    <net code="59" name="/SW55">
+      <node ref="SW55" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="SW55" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="U4" pin="4" pinfunction="GPB3" pintype="bidirectional"/>
+    </net>
+    <net code="60" name="/SW56">
+      <node ref="SW56" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="SW56" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="U4" pin="24" pinfunction="GPA3" pintype="bidirectional"/>
+    </net>
+    <net code="61" name="/SW57">
+      <node ref="SW57" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="SW57" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="U4" pin="5" pinfunction="GPB4" pintype="bidirectional"/>
+    </net>
+    <net code="62" name="/SW58">
+      <node ref="SW58" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="SW58" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="U4" pin="25" pinfunction="GPA4" pintype="bidirectional"/>
+    </net>
+    <net code="63" name="/SW59">
+      <node ref="SW59" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="SW59" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="U4" pin="6" pinfunction="GPB5" pintype="bidirectional"/>
+    </net>
+    <net code="64" name="/SW60">
+      <node ref="SW60" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="SW60" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="U4" pin="26" pinfunction="GPA5" pintype="bidirectional"/>
+    </net>
+    <net code="65" name="Net-(R1-Pad2)">
+      <node ref="R1" pin="2" pintype="passive"/>
+      <node ref="U2" pin="15" pinfunction="A0" pintype="input"/>
+    </net>
+    <net code="66" name="Net-(R4-Pad1)">
+      <node ref="R4" pin="1" pintype="passive"/>
+      <node ref="U1" pin="18" pinfunction="~{RESET}" pintype="output"/>
+    </net>
+    <net code="67" name="Net-(R5-Pad1)">
+      <node ref="R5" pin="1" pintype="passive"/>
+      <node ref="U2" pin="18" pinfunction="~{RESET}" pintype="output"/>
+    </net>
+    <net code="68" name="Net-(R6-Pad1)">
+      <node ref="R6" pin="1" pintype="passive"/>
+      <node ref="U3" pin="18" pinfunction="~{RESET}" pintype="output"/>
+    </net>
+    <net code="69" name="Net-(R7-Pad1)">
+      <node ref="R7" pin="1" pintype="passive"/>
+      <node ref="U4" pin="18" pinfunction="~{RESET}" pintype="output"/>
+    </net>
+    <net code="70" name="Net-(R8-Pad2)">
+      <node ref="R8" pin="2" pintype="passive"/>
+      <node ref="U3" pin="16" pinfunction="A1" pintype="input"/>
+    </net>
+    <net code="71" name="Net-(R9-Pad2)">
+      <node ref="R9" pin="2" pintype="passive"/>
+      <node ref="U4" pin="17" pinfunction="A2" pintype="input"/>
+    </net>
+    <net code="72" name="unconnected-(A1-Pad2)">
+      <node ref="A1" pin="2" pinfunction="2" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="73" name="unconnected-(A1-Pad3)">
+      <node ref="A1" pin="3" pinfunction="3" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="74" name="unconnected-(A1-Pad4)">
+      <node ref="A1" pin="4" pinfunction="4" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="75" name="unconnected-(A1-Pad5)">
+      <node ref="A1" pin="5" pinfunction="5" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="76" name="unconnected-(A1-Pad5V)">
+      <node ref="A1" pin="5V" pinfunction="5V" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="77" name="unconnected-(A1-Pad6)">
+      <node ref="A1" pin="6" pinfunction="6" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="78" name="unconnected-(A1-Pad7)">
+      <node ref="A1" pin="7" pinfunction="7" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="79" name="unconnected-(A1-PadA0)">
+      <node ref="A1" pin="A0" pinfunction="A0" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="80" name="unconnected-(A1-PadA1)">
+      <node ref="A1" pin="A1" pinfunction="A1" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="81" name="unconnected-(A1-PadA2)">
+      <node ref="A1" pin="A2" pinfunction="A2" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="82" name="unconnected-(A1-PadA3)">
+      <node ref="A1" pin="A3" pinfunction="A3" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="83" name="unconnected-(A1-PadGND2)">
+      <node ref="A1" pin="GND2" pinfunction="GND2" pintype="power_out+no_connect"/>
+    </net>
+    <net code="84" name="unconnected-(A1-PadGND3)">
+      <node ref="A1" pin="GND3" pinfunction="GND3" pintype="power_out+no_connect"/>
+    </net>
+    <net code="85" name="unconnected-(A1-PadSWCLK)">
+      <node ref="A1" pin="SWCLK" pinfunction="SWCLK" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="86" name="unconnected-(A1-PadSWDIO)">
+      <node ref="A1" pin="SWDIO" pinfunction="SWDIO" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="87" name="unconnected-(U1-Pad19)">
+      <node ref="U1" pin="19" pinfunction="INTB" pintype="output+no_connect"/>
+    </net>
+    <net code="88" name="unconnected-(U1-Pad20)">
+      <node ref="U1" pin="20" pinfunction="INTA" pintype="output+no_connect"/>
+    </net>
+    <net code="89" name="unconnected-(U2-Pad19)">
+      <node ref="U2" pin="19" pinfunction="INTB" pintype="output+no_connect"/>
+    </net>
+    <net code="90" name="unconnected-(U2-Pad20)">
+      <node ref="U2" pin="20" pinfunction="INTA" pintype="output+no_connect"/>
+    </net>
+    <net code="91" name="unconnected-(U3-Pad19)">
+      <node ref="U3" pin="19" pinfunction="INTB" pintype="output+no_connect"/>
+    </net>
+    <net code="92" name="unconnected-(U3-Pad20)">
+      <node ref="U3" pin="20" pinfunction="INTA" pintype="output+no_connect"/>
+    </net>
+    <net code="93" name="unconnected-(U4-Pad7)">
+      <node ref="U4" pin="7" pinfunction="GPB6" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="94" name="unconnected-(U4-Pad8)">
+      <node ref="U4" pin="8" pinfunction="GPB7" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="95" name="unconnected-(U4-Pad19)">
+      <node ref="U4" pin="19" pinfunction="INTB" pintype="output+no_connect"/>
+    </net>
+    <net code="96" name="unconnected-(U4-Pad20)">
+      <node ref="U4" pin="20" pinfunction="INTA" pintype="output+no_connect"/>
+    </net>
+    <net code="97" name="unconnected-(U4-Pad27)">
+      <node ref="U4" pin="27" pinfunction="GPA6" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="98" name="unconnected-(U4-Pad28)">
+      <node ref="U4" pin="28" pinfunction="GPA7" pintype="bidirectional+no_connect"/>
+    </net>
+  </nets>
+</export>

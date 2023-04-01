@@ -236,9 +236,7 @@
   },
   "libraries": {
     "pinned_footprint_libs": [],
-    "pinned_symbol_libs": [
-      "project_library"
-    ]
+    "pinned_symbol_libs": []
   },
   "meta": {
     "filename": "keyboard.kicad_pro",
